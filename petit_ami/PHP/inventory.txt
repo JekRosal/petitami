@@ -1,0 +1,1098 @@
+Trolli Cheesecake	5	12	Food $ Drink
+Aloi Thai Candy	2	54.75	Food $ Drink
+Trolli Pizza	102	12	Food $ Drink
+Mentos Mini	29	4.5	Food $ Drink
+Doublemint Long	7	10	Food $ Drink
+Juicyfruit Long	53	10	Food $ Drink
+Mentos Chewy	135	2	Food $ Drink
+C&C Krim Stiks	2	1.25	Food $ Drink
+Chocolate Krim Stiks	49	1.25	Food $ Drink
+Ube Krim Stiks	12	1.25	Food $ Drink
+Choco Orange Krim Stiks	33	1.25	Food $ Drink
+Character Chocolates	60	2	Food $ Drink
+Mini Snickers	77	12	Food $ Drink
+Chocorooms	4	20	Food $ Drink
+Beng Beng	6	7	Food $ Drink
+Cloud 9 Overload	6	12	Food $ Drink
+Hello Panda	34	36	Food $ Drink
+M&M's Small	168	12	Food $ Drink
+Cornetto	17	5	Food $ Drink
+Dole 4 Seasons	4	0	Food $ Drink
+Dole Pineapple Orange 	4	0	Food $ Drink
+Del Monte Pineapple Juice	1	0	Food $ Drink
+Hersheys Drinks	12	35	Food $ Drink
+Milkys	1	28	Food $ Drink
+Fitnesse Bar	0	0	Food $ Drink
+Choco Mucho	39	10	Food $ Drink
+Pringles Large	3	90	Food $ Drink
+Pringles Small	3	40	Food $ Drink
+Piknik	4	38	Food $ Drink
+Large Yogo	3	25	Food $ Drink
+Chucky Large	2	30	Food $ Drink
+Sour Gecko	74	12	Food $ Drink
+Trolli Sidewinder	9	12	Food $ Drink
+Trolli Hotdog	15	6	Food $ Drink
+Trolli Burger	7	6	Food $ Drink
+Koko Krunch	17	7	Food $ Drink
+Coco Pops	1	8	Food $ Drink
+Oreo Thins	6	50	Food $ Drink
+Mini Egg	37	7.5	Food $ Drink
+Small Chupa Chups	33	2.5	Food $ Drink
+Medium Chupa Chups	65	10	Food $ Drink
+Giant Chupa Chups	4	150	Food $ Drink
+JuJu Jellies	27	5	Food $ Drink
+Pepero White Chocolate	6	55	Food $ Drink
+Pepero Choco Cookie	1	55	Food $ Drink
+Quake Chocolate Cake	0	10	Food $ Drink
+Whoopie Marshmallow Cake	9	10	Food $ Drink
+Dowee Donut	5	10	Food $ Drink
+Graham Cracker	0	7	Food $ Drink
+Mrs Goodman Chunkee Cookie	0	10	Food $ Drink
+Waffle Deluxe	3	10	Food $ Drink
+Lipo Butter Egg Cookie	0	5	Food $ Drink
+chippy large	2	0	Food $ Drink
+potato fries small	2	8.5	Food $ Drink
+criss cross small	0	8.5	Food $ Drink
+goya pretzel twistys small choco	4	9.5	Food $ Drink
+goya pretzel twistys small white choco	1	9.5	Food $ Drink
+goya pretzel twistys large choco	1	22.5	Food $ Drink
+goya pretzel twistys large dark choco	1	22.5	Food $ Drink
+rinbee cheese sticks	9	8.5	Food $ Drink
+fluffy mallows short	33	2	Food $ Drink
+long neck mallows	8	8	Food $ Drink
+mallow candies	20	6	Food $ Drink
+dewberry	5	9.5	Food $ Drink
+small yoghurt sticks	70	1	Food $ Drink
+long yoghurt sticks	26	0	Food $ Drink
+maxx candy	14	1	Food $ Drink
+halls candy	143	1	Food $ Drink
+marshies marshmallows	73	1	Food $ Drink
+lipps lollipop	22	1.5	Food $ Drink
+mentos candies	29	1	Food $ Drink
+white rabbit	17	1	Food $ Drink
+Doublemint Tabs	229	1.25	Food $ Drink
+ball jelly	7	7.5	Food $ Drink
+egg gum	128	2	Food $ Drink
+tennis gum 	119	2	Food $ Drink
+hk burger	46	6	Food $ Drink
+Mentos Soda	47	1	Food $ Drink
+chucky 110ml	13	15	Food $ Drink
+M&M's Peanuts Big	3	75	Food $ Drink
+Bread Pan Small	21	8.5	Food $ Drink
+Bread Pan Big	21	12.5	Food $ Drink
+Richeese	9	12.5	Food $ Drink
+Cal Cheese	5	12.5	Food $ Drink
+Magic Chips	3	12	Food $ Drink
+Eggnog	3	7	Food $ Drink
+Skyflakes Onion & Chives	10	10	Food $ Drink
+Fita Bacon	7	9	Food $ Drink
+Fita	7	7	Food $ Drink
+Nova	6	15	Food $ Drink
+Martys Small	8	8.5	Food $ Drink
+PeeWee Small	3	8.5	Food $ Drink
+Clover small	3	8.5	Food $ Drink
+Piattos Small	6	15	Food $ Drink
+Vcut Small 	3	15	Food $ Drink
+Corn Bits Big	3	12	Food $ Drink
+Sweet Panda	9	12	Food $ Drink
+Panda Milky	5	12	Food $ Drink
+Choco Chum Small	2	8.5	Food $ Drink
+Loaded Small 	2	8.5	Food $ Drink
+Oheya Small	4	12	Food $ Drink
+Mr. Chips Small	0	8.5	Food $ Drink
+Cheezy Big	1	25	Food $ Drink
+Chiz Mix	2	20	Food $ Drink
+Chiz Curls	1	20	Food $ Drink
+Cheetos Small	6	0	Food $ Drink
+Magic Flakes Plain	16	0	Food $ Drink
+Magic Junior	5	0	Food $ Drink
+Magic Flakes Cheese	3	0	Food $ Drink
+Magic Flakes Creams	5	0	Food $ Drink
+Juicyfruit Tabs	56	1.25	Food $ Drink
+Twisties Marshmallows	7	2	Food $ Drink
+Rainbow Crunch	17	2	Food $ Drink
+Mello Bar	17	2	Food $ Drink
+Cola Gum	198	2	Food $ Drink
+Watermelon Gum	97	2	Food $ Drink
+Mango Gum	82	2	Food $ Drink
+Chalk Gum	27	2	Food $ Drink
+Premier Water	44	12	Food $ Drink
+Tropicana	9	30	Food $ Drink
+Mogu Mogu	1	35	Food $ Drink
+Jelly Vit	7	25	Food $ Drink
+Sugus	64	1.25	Food $ Drink
+Chupa Chups Milkys Strawberry	6	6	Food $ Drink
+Chupa Chups Milkys Caramel	9	6	Food $ Drink
+Muncher Small	11	0	Food $ Drink
+Alibaba	8	0	Food $ Drink
+Ovaltine Small	12	7	Food $ Drink
+Bawang na Bawang	8	0	Food $ Drink
+Klicx	7	7	Food $ Drink
+Cereal Bar	5	0	Food $ Drink
+Barbie Snack	9	15	Food $ Drink
+Yum Yum	5	15	Food $ Drink
+Choco Mucho Big	1	48	Food $ Drink
+Tic Tac	15	25	Food $ Drink
+Toblerone	2	0	Food $ Drink
+Waffle Haus	2	40	Food $ Drink
+Jelly Sticks	60	1	Food $ Drink
+Jellyboy Assorted Jelly	100	2	Food $ Drink
+Dowee Doughnut	5	10	Food $ Drink
+Whistle Candy	144	2	Food $ Drink
+Peppero White Chocolate	6	55	Food $ Drink
+Peppero Choco Cookie	1	55	Food $ Drink
+Waffle Deluxe	3	10	Food $ Drink
+Butter Coconut Small	12	3	Food $ Drink
+Butter Coconut Big	2	18	Food $ Drink
+Chupa Chups XXL	400	20	Food $ Drink
+Daiso Erasers	15	100	Stationary
+HK Eraser Bag	3	20	Stationary
+Football Erasers	2	40	Stationary
+HK Car Eraser	2	20	Stationary
+Bag Set HK Eraser	1	75	Stationary
+Erasers in Tupperware	1	75	Stationary
+HK Eraser Slippers	3	40	Stationary
+Frozen Eraser Slipper	1	40	Stationary
+Erasers in Tube	3	60	Stationary
+Burger Erasers	3	60	Stationary
+Office Erasers	20	6.5	Stationary
+HK Regular Erasers	26	15	Stationary
+Body Paints	13	69.5	Stationary
+Easy Poster Paints	10	22.5	Stationary
+Easy Oil Pastel 12pcs.	5	42.5	Stationary
+Crayola 24 Crayons	10	59	Stationary
+Crayola 16 Crayons	8	46.5	Stationary
+Crayola 8 Crayons	11	25	Stationary
+Easy Watercolor	1	45	Stationary
+Teen Art Soft Pastel	2	75	Stationary
+HBW Poster Color	36	210	Stationary
+Teen Art Oil Pastel	6	22	Stationary
+Colokit Watercolor	5	65	Stationary
+Star Water Color	8	45	Stationary
+Shuang Wei Watercolor	4	32	Stationary
+Color Palette	7	25	Stationary
+HBW Poster Color	6	96.5	Stationary
+True Color Cuya Crayons	2	75	Stationary
+White Chalks	4	20	Stationary
+Coloured Chalks	4	22	Stationary
+True Color 12 pcs. Color Pencils	11	100	Stationary
+Dominic Crayons	6	145	Stationary
+True Color Cuya oil Pastel	5	90	Stationary
+True Color Cuya Marker Pens	1	150	Stationary
+Disneyland Lanyards	2	249.75	Stationary
+Protractors big/small	10	10	Stationary
+Exam Grade Pensil Sharpeners	7	18.5	Stationary
+No Brand Scissors	3	25	Stationary
+Def Kids Scissors	3	54.75	Stationary
+HK Scissor	1	75	Stationary
+Crane Scissors	3	200	Stationary
+Ishifeng Scissors	4	25	Stationary
+White White Glue Small	12	20	Stationary
+White White Glue Medium	1	32	Stationary
+White White Glue Large	8	38	Stationary
+White White Glue XS	19	12.5	Stationary
+Elmers White Glue Small	2	22.5	Stationary
+Plain Glue Stick	6	8.5	Stationary
+Colored Glue Stick	10	22.75	Stationary
+Design Pub Clips	6	40	Stationary
+Label Maker	1	550	Stationary
+Flexible Pencils	2	100	Stationary
+Fuzzy Wires	200	6	Stationary
+Flower Crown	1	45	Stationary
+1000 Stickers	1	99.75	Stationary
+Dominic Correction Tape 12m	3	26	Stationary
+glue gun large	1	180	Stationary
+glue gun small	2	160	Stationary
+aspen neon notebook small	8	12.5	Stationary
+Scribbles writing notebook	7	22	Stationary
+Aspen Barbie Notebook	1	15	Stationary
+steno notebook	8	19.5	Stationary
+aspen earth notebook	5	15	Stationary
+orion character notebook	7	27.5	Stationary
+Advance math notebooks	6	23.5	Stationary
+music book small	4	9.5	Stationary
+angle blues notebook	1	32.5	Stationary
+Denise Sketch Pad	1	115.75	Stationary
+happy day notebook w/ mirror	1	63.75	Stationary
+woody wood pecker notebook	1	45.75	Stationary
+graph ruled composition	3	44.5	Stationary
+composition notebook	1	44.5	Stationary
+astra math notebook big	5	32	Stationary
+astra notebook big	1	32	Stationary
+wise point current of life notebook	1	32	Stationary
+HOTS Sketchpad	14	48	Stationary
+daiso clear pocket refills	1	12.5	Stationary
+Economic PH Map	2	15	Stationary
+large blank ph map	3	15	Stationary
+Large blank world map	3	15	Stationary
+large world map	1	23.75	Stationary
+small periodic table	4	15	Stationary
+Political Map of Asia	1	15	Stationary
+art attack construction paper	1	79.75	Stationary
+funstruction construction paper	1	33.5	Stationary
+120 gsm paper	6	3.5	Stationary
+designed plastic envelopes	6	14.5	Stationary
+clear folder	1	15.5	Stationary
+200 gsm papers	1	5.5	Stationary
+sticker paper	1	12.5	Stationary
+photo paper	1	20	Stationary
+aspen neon notebooks big	10	22.5	Stationary
+tattoo pen	4	50	Stationary
+formal theme elementary	22	7.5	Stationary
+vision high school formal theme	4	7.5	Stationary
+deped elem formal theme blue	2	17.5	Stationary
+astra hs formal theme	4	7.5	Stationary
+mga sulating pangwakas	2	7.5	Stationary
+deped secondary formal theme green	5	17.5	Stationary
+vision salitang panwakas	3	15.5	Stationary
+science exercise book	3	32	Stationary
+lesson plan books	2	60	Stationary
+matchbox	0	2	Stationary
+christmas bags big	16	35	Stationary
+building w/ car paper bag	8	38	Stationary
+star paper bag red big	1	45.75	Stationary
+large brown paper bag	10	40	Stationary
+leopard paper bag	6	35	Stationary
+large paper cloth bag	40	18	Stationary
+XL paper cloth bag	19	25	Stationary
+small sofa paper bag	13	18	Stationary
+small christmas paperbag	16	20	Stationary
+building w/ car paperbag small	8	20	Stationary
+building w/ car paperbag medium	5	28	Stationary
+christmas paper bag medium	12	25	Stationary
+dobolv tissue 	4	35.75	Stationary
+gluestick small	5	6	Stationary
+candles	6	32.75	Stationary
+small gift boxes	6	25	Stationary
+long gift bags	2	35	Stationary
+medium gift bags	6	35	Stationary
+Easy Acryllic Paint Black	7	38.5	Stationary
+Easy Acryllic Paint Purple	6	38.5	Stationary
+Easy Acryllic Paint Dark Green	6	38.5	Stationary
+Easy Acryllic Paint Light Green	1	38.5	Stationary
+Easy Acryllic Paint Yellow	3	38.5	Stationary
+Easy Acryllic Paint Orange	4	38.5	Stationary
+Easy Acryllic Paint Brown	3	38.5	Stationary
+Easy Acryllic Paint Red	2	38.5	Stationary
+Easy Acryllic Paint Light Blue	1	38.5	Stationary
+Conzn Acryllic Paint Blue	1	46.5	Stationary
+Conzn Acryllic Paint Orange	1	46.5	Stationary
+Conzn Acryllic Paint Brown	1	46.5	Stationary
+Conzn Acryllic Paint Dark Green	1	46.5	Stationary
+Yellow Chalks	1	22	Stationary
+Mustache Sharpeners	5	18.75	Stationary
+Koala Sharpener	1	18.75	Stationary
+Ordinary Sharpeners	5	18.75	Stationary
+GEM Office Stapler	3	125	Stationary
+Folding Scissors	2	25	Stationary
+Dominic Correction Tape 8m	4	22.5	Stationary
+Inyan Correction Tape 6m	2	16.5	Stationary
+Inyan Correction Tape 4m	2	15	Stationary
+BoBo Correction Tape	1	28	Stationary
+Weibo Correction Tape	2	32.5	Stationary
+HK Correction Tape	1	20	Stationary
+Wise Point Correction Tape	7	16.5	Stationary
+Small Cloth bags	20	8.5	Stationary
+XL Sling Paper Cloth Bag	6	0	Stationary
+Big Glue Sticks	33	12	Stationary
+BBQ Sticks	5	40	Stationary
+Knives, Spoon & Fork	8	92.75	Stationary
+Advanced Looney Tunes NB	3	16.75	Stationary
+Centurian Princess Writing NB	10	20	Stationary
+Winnie The Pooh NB	6	25	Stationary
+Cattleya Math Notebook	3	32.5	Stationary
+Mix Notes notebook	4	15	Stationary
+Paperone Notebook	3	14.75	Stationary
+HOTS Notebook	15	10	Stationary
+Advance Notebook Writing Notebook	10	20	Stationary
+Advance Batman Writing Notebook	8	20	Stationary
+Small PH Political Map	3	15	Stationary
+Scribbles Sketchpad	2	21.5	Stationary
+Planner A4	1	71.5	Stationary
+Big Music Books	4	14.5	Stationary
+daiso clear pocket refills thick	1	14.5	Stationary
+Happy Heart folder w/ Slider	2	15.5	Stationary
+Climate Map of the PH	3	15	Stationary
+Colored Rope Strings	14	20	Stationary
+Colored Rope Yarn	7	20	Stationary
+Colored Yarn	4	12.5	Stationary
+Glue Gun Big	1	180	Stationary
+Glue Gun Small	2	160	Stationary
+Number Stickers	9	25	Stationary
+Nuoyong Stickers	4	20	Stationary
+Cellphone Stickers	6	25	Stationary
+Happy Stickers	8	25	Stationary
+Jewelry Stickers	2	20	Stationary
+Photo Frame Set	4	150	Stationary
+Miniso Sand Art	2	159.75	Stationary
+Big Pull Ribbons	46	12	Stationary
+Small Pull Ribbons	20	10	Stationary
+Giant Pull Ribbons	30	15	Stationary
+P/X Construction Paper	263	2	Stationary
+Splash Colors Nenon Colored Paper	432	2	Stationary
+Cactus Long Bond Paper	590	1.5	Stationary
+HP A4 Bond Paper	88	1	Stationary
+Canon Short Bond Paper	286	1	Stationary
+Cactus Short Bond Paper	500	1	Stationary
+Crystal Long Bond Paper	1000	1	Stationary
+Vision Oslo Paper	170	1	Stationary
+Graphing Paper	231	1.5	Stationary
+Crystal Short Bond Paper	1000	1	Stationary
+1/8 Illustration Board	19	9.5	Stationary
+1/4 Illustration Board	54	19	Stationary
+Large Cork Boards	4	0	Stationary
+Corrugated Board	16	12.5	Stationary
+School Charts	67	15	Stationary
+Big Design Ribbons	14	32.5	Stationary
+Thin Ribbon Beige	10	25	Stationary
+Tian Hong ribbon Blue	1	40	Stationary
+Thin Ribbon LightBlue	7	25	Stationary
+Tian Ribbon Green	1	40	Stationary
+Thick White Ribbon	4	60	Stationary
+Tian Hong Ribbon	2	40	Stationary
+Thin Ribbon Pink	6	25	Stationary
+Purity Cotton	2	12	Stationary
+Adamson Cotton	0	19.5	Stationary
+Colored Bendable Metal Wires	3	10	Stationary
+Senior Stationary (Stencil Ruler)	6	25	Stationary
+Jinsihou Ruler	2	50	Stationary
+Hai Niao (Stencil Ruler)	2	50	Stationary
+COX Computer Flowchart Template	2	88	Stationary
+Glitter Glue	15	15	Stationary
+HK Tape Dispenser	4	125	Stationary
+Google Eyes in Tube	11	12	Stationary
+Happy Birthday Book	1	100	Stationary
+Noli Me Tangere	2	75	Stationary
+El Filibusterismo	2	75	Stationary
+Ibong Adarna	2	75	Stationary
+Filipino English Dictionary	3	48.5	Stationary
+Science Dictionary	3	53.5	Stationary
+English Dictionary	3	58.5	Stationary
+Say it in Crystals	11	8	Stationary
+Deco Sal	20	8	Stationary
+Body Sticker	30	8	Stationary
+I love you Bear w/ Sign	3	50	Stationary
+Hong Yuen Superglue Tube	28	10	Stationary
+Hong Yuen Superglue Bottle	5	22	Stationary
+Vital Fix Superglue	4	35	Stationary
+Vellum	4	12	Stationary
+Black Felt Paper	2	22	Stationary
+Blue Felt Paper	2	22	Stationary
+Pink Felt Paper	2	22	Stationary
+Orange Felt Paper	2	22	Stationary
+Purple Felt Paper	2	22	Stationary
+Badminton Shuttlecock Pack	1	20	Stationary
+Chipboard	22	15	Stationary
+Birthday Gift Wrappers	5	9.75	Stationary
+Christmas Gift Wrappers	22	10	Stationary
+Rubber Band Pack	34	15	Stationary
+Poster Art Set	4	180	Stationary
+Nylon Strings Red	45	5	Stationary
+Nylon Strings Pink	47	5	Stationary
+Nylon Strings Orange	48	5	Stationary
+Nylon Strings Purple	42	5	Stationary
+Nylon Strings Green	44	5	Stationary
+Nylon Strings Blue	30	5	Stationary
+Nylon Strings Black	42	5	Stationary
+Nylon Strings Assorted Colors	28	5	Stationary
+Long Bond paper set 50pcs.	1	42	Stationary
+Long Bond paper set 24 pcs	5	19	Stationary
+Long Bond paper set 15pcs	3	12	Stationary
+Oslo Paper set 10pcs	11	18	Stationary
+Short Bond Paper set 50pcs	1	35	Stationary
+Short Bond Paper set 20pcs	2	20	Stationary
+Short Bond Paper set 15 pcs	6	15	Stationary
+Short Bond Paper set 10 pcs	17	10	Stationary
+Graphing Paper set 10 pcs	8	13.5	Stationary
+Colored Paper 10 pcs	4	15	Stationary
+Art Paper set 10 pcs	13	12.5	Stationary
+Clay Tub	1	199.75	Stationary
+Joy Expandable Envelope	4	56.5	Stationary
+Wise Point Small Brown Bag	11	18	Stationary
+Wise Point Happy Time Bag	12	25	Stationary
+Plain Brown Bag Small	9	25	Stationary
+Small Soft Cloth Bag Orange	8	12	Stationary
+Small Soft Cloth Bag Black	9	12	Stationary
+Kiss Gift Wrapper	12	9.75	Stationary
+Colorful Leaves Gift Wrapper	5	9.75	Stationary
+Pulbar Gift Wrapper	6	9.75	Stationary
+Merry Christmas Gift Wrapper w/ Santa	21	10	Stationary
+Yellow Bear Gift Wrapper	6	9.75	Stationary
+Blue Bear Gift Wrapper	5	9.75	Stationary
+Colorful Trees Gift Wrapper	9	15	Stationary
+Kiddie Animal Gift Wrapper	9	15	Stationary
+Paris Gift Wrapper	10	17	Stationary
+London Gift Wrapper	10	17	Stationary
+White Balloon Sticks	96	0	Stationary
+White Balloon Stick Holders	99	0	Stationary
+Colorful Balloon Sticks	31	0	Stationary
+Colorful Balloon Stick Holders	31	0	Stationary
+Big Christmas Tags	30	8	Stationary
+Small Christmas Tags	30	6	Stationary
+Long Christmas Bags	5	25.5	Stationary
+Character Stamps & Roller Stamps	6	75	Stationary
+Yipin Xuan Watercolor	6	45	Stationary
+Blue Cellophane	18	10	Stationary
+White Cellophane	20	10	Stationary
+Orange Cellophane	21	10	Stationary
+Purple Cellophane	20	10	Stationary
+Green Cellophane	20	10	Stationary
+Red Cellophane	19	10	Stationary
+Blue Jap Paper	23	5.5	Stationary
+Yellow Jap Paper	37	5.5	Stationary
+Green Jap Paper	40	5.5	Stationary
+White Jap Paper	40	5.5	Stationary
+Red Jap Paper	31	5.5	Stationary
+Pink Jap Paper	21	5.5	Stationary
+Orange Jap Paper	22	5.5	Stationary
+Fuchsia Pink crepe	4	10	Stationary
+Pink Crepe	17	10	Stationary
+Light Pink Crepe	8	10	Stationary
+Whitw Crepe	14	10	Stationary
+Green Crepe	14	10	Stationary
+Light Yellow Crepe	19	10	Stationary
+Sunset Yellow Crepe	24	10	Stationary
+Light Blue Crepe	10	10	Stationary
+Blue Grey Crepe	11	10	Stationary
+Orange Crepe	14	10	Stationary
+Red Crepe	22	10	Stationary
+Blue Crepe	12	10	Stationary
+Purple Crepe	11	10	Stationary
+Lavender Crepe	9	10	Stationary
+Manila Paper	29	5.5	Stationary
+Green Gift Wrapper	9	17.5	Stationary
+Maroon Gift Wrapper	8	17.5	Stationary
+Light Blue Gift Wrapper	18	17.5	Stationary
+Red Gift Wrapper	16	17.5	Stationary
+Dark Blue Gift Wrapper	13	17.5	Stationary
+Orange Gift Wrapper	12	17.5	Stationary
+Paris Scissors	7	200	Stationary
+Small Brown Paper Bag	100	1	Stationary
+Medium Brown Paper Bag	30	1.5	Stationary
+Transformers Coin Bank Set	1	131.5	Stationary
+Yellow Transparent folder w/ slider short	5	11.75	Stationary
+Green Transparent folder w/ slider short	12	11.75	Stationary
+White Transparent folder w/ slider short	4	11.75	Stationary
+Pink Transparent folder w/ slider short	12	11.75	Stationary
+Blue Transparent folder w/ slider short	24	11.75	Stationary
+Assorted color Transparent folder w/ slider short	22	11.75	Stationary
+Red Transparent folder w/ slider short	8	11.75	Stationary
+Pink Transparent folder w/ slider short	12	11.75	Stationary
+Merit Envelope	3	24.5	Stationary
+Short White Folder w/ Case	4	14.5	Stationary
+Long White Folder w/ Case	18	15.5	Stationary
+Long Morocco Folder w/ Slider	20	15	Stationary
+Short Morocco Folder w/ Slider	18	12	Stationary
+Picture Frame 	12	0	Stationary
+Yellow Pad Paper	3	38.75	Stationary
+Raibow Pad Paper	3	38.75	Stationary
+Intermediate Pad Paper	24	25	Stationary
+Grade 1 Pad Paper	29	15	Stationary
+Grade 2 Pad Paper	34	15	Stationary
+Grade 3 Pad Paper	23	15	Stationary
+Grade 4 Pad Paper	26	15	Stationary
+1/2 Cross wise Pad Paper	23	15	Stationary
+1/2 Lengthwise Pad Paper	32	15	Stationary
+1/4 Quiz Pad Paper	8	10	Stationary
+Round Soft Pencil Case	3	0	Stationary
+Sports Pencil Case for Boys	2	0	Stationary
+Pencil Case for Girls	1	0	Stationary
+Slipper Pencil Case	1	0	Stationary
+Spelling Booklet for Primary	5	0	Stationary
+Spelling Booklet for Intermediate	4	0	Stationary
+Index Cards 5x8 Inches (Unique)	74	0	Stationary
+Index Cards 4x6 inches (Unique)	64	0	Stationary
+Index Cards 5x8 Inches (Orions)	0	0	Stationary
+Focus Colored Index Cards 3"x5"	3	0	Stationary
+Cattleya Index Cards 3"x5"	5	0	Stationary
+Long Brown Envelope	38	5	Stationary
+Short Brown Envelope	65	4	Stationary
+Bank Envelope	6	0	Stationary
+Flamingo Envelopes green (#5 1/2)	4	0	Stationary
+Flamingo Envelopes white (#8 1/2)	4	0	Stationary
+Letter Envelope white	28	0	Stationary
+Letter Envelope Colored	18	0	Stationary
+Plastic Long Envelope	75	0	Stationary
+Plastic Short Envelope	36	12	Stationary
+Plastic Card Envelopes	32	0	Stationary
+Biodata	59	2	Stationary
+Carbon paper	94	0	Stationary
+Brown Short Folder	22	6.5	Stationary
+White Short Folder	8	6.5	Stationary
+Short Colored Folder	170	10	Stationary
+Short Printed design Folder	11	15	Stationary
+Short Colored Folder (Tomodachi)	18	22	Stationary
+Long Folder w/ Design	4	28.5	Stationary
+Long Folder (Tomodachi)	19	25	Stationary
+Long Folder Colored	17	12	Stationary
+Long Folder Colored	1	9.5	Stationary
+Long Brown Folder	3	8.5	Stationary
+Expanding File	2	0	Stationary
+Thick Clearbook Long	1	0	Stationary
+Long Clearbook	2	54.5	Stationary
+Long Clearbook	1	169.5	Stationary
+Short Clearbook	12	0	Stationary
+Mickey Mouse Scratch-it paper	3	0	Stationary
+Activity book for kids	3	0	Stationary
+Workbook for kids	2	0	Stationary
+Coloring book	3	98.75	Stationary
+Coloring book	6	32	Stationary
+Story Book	6	0	Stationary
+Face Paint	1	60	Stationary
+Blackboard Eraser	4	42.5	Stationary
+Stationary Paper	97	2	Stationary
+Red Dye	82	0	Stationary
+Yellow Dye	47	0	Stationary
+Violet Dye	47	0	Stationary
+Black Dye	44	0	Stationary
+Green Dye	48	0	Stationary
+Orange Dye	48	0	Stationary
+Navy Blue Dye	40	0	Stationary
+LED Lamp Pen	6	0	Stationary
+Big Compass	4	0	Stationary
+Small Compass	10	0	Stationary
+Arts & Crafts set	3	0	Stationary
+Chopstick Pens	3	0	Stationary
+Design Ruler	1	0	Stationary
+Small Binder Clip Set	3	0	Stationary
+Push Pins Set	4	0	Stationary
+Paper Clip Set	4	0	Stationary
+Big Binder Clip Set	6	0	Stationary
+Magnifying Glass	6	0	Stationary
+Office Supply Set	4	0	Stationary
+Glitter Glue Set	1	0	Stationary
+Plastic Cover Big	1	0	Stationary
+Plastic Cover Small	1	0	Stationary
+Long Metallic Paper	27	0	Stationary
+Short Metallic Paper	22	0	Stationary
+Black Cartolina	12	10	Stationary
+Brown Cartolina	12	10	Stationary
+White Cartolina	12	9	Stationary
+Purple Cartolina	29	10	Stationary
+Green Cartolina	17	10	Stationary
+Light Green Cartolina	9	10	Stationary
+Blue Cartolina	16	10	Stationary
+Light Blue Cartolina	8	10	Stationary
+Red Cartolina	17	10	Stationary
+Pink Cartolina	18	10	Stationary
+Yellow Cartolina	14	10	Stationary
+Orange Cartolina	13	10	Stationary
+Yellow Green Cartolina	2	10	Stationary
+Light Yellow Cartolina	1	10	Stationary
+Dark Yellow Cartolina	3	10	Stationary
+Character Ballpen	15	0	Stationary
+Character Pencil	16	0	Stationary
+Hello Kitty Pencil	12	12.5	Stationary
+Hello Kitty Pencil	3	20	Stationary
+Disney Character Pencil	2	0	Stationary
+High School Musical Pencil	7	0	Stationary
+Flower Design Pencil	4	0	Stationary
+Bensia Pencil	3	0	Stationary
+Mechanical Pencil	19	20	Stationary
+Mechanical Pencil	1	25	Stationary
+Mechanical Pencil	8	32	Stationary
+Mechanical Pencil	2	35	Stationary
+Meterstick	4	0	Stationary
+PomPom Ballpen 	1	0	Stationary
+Mongol #1	21	9.5	Stationary
+Mongol #2	13	9.5	Stationary
+Mongol #3	25	9.5	Stationary
+Mongol XL	38	15	Stationary
+Easy Semi-Jell Pens	5	0	Stationary
+0.7 Red Pen	1	0	Stationary
+flexistick red pen	3	0	Stationary
+flex office pen	2	0	Stationary
+Wise Point Blue Pen	57	10	Stationary
+Wise Point Black Pen	52	10	Stationary
+Hello Kitty Sanrio Highlighter	3	0	Stationary
+Gelone	10	0	Stationary
+HBW Correction Pen	10	0	Stationary
+Blue True Color Permanent Marker	9	0	Stationary
+Black True Color Permanent Marker	36	0	Stationary
+Red True Color Permanent Marker	8	0	Stationary
+Black True Color Double-sided Marker	31	0	Stationary
+Blue True Color Double-sided Marker	8	0	Stationary
+Red True Color Double-sided Marker	6	0	Stationary
+Flex office twin White Board Marker	4	0	Stationary
+Felx Office green whiteboard Marker	3	0	Stationary
+Felx Office red whiteboard Marker	3	0	Stationary
+Felx Office blue whiteboard Marker	3	0	Stationary
+HBW Red whiteboard marker	2	0	Stationary
+Felx office whiteboard marker w/ eraser	3	0	Stationary
+orKey Permanenet marker	1	0	Stationary
+Flex office permanent marker	2	0	Stationary
+Artline 107R permanent Marker	2	0	Stationary
+Charcoal Pencil	12	0	Stationary
+Modeling Clay 10 colors	1	48.5	Stationary
+Modeling Clay 5 colors	1	38.75	Stationary
+Multi-Colored Clay	6	38.75	Stationary
+Modeling Clay 1 color	1	21.5	Stationary
+Modeling Clay 10 colors	3	50	Stationary
+Popsicle Sticks Plain	3	20	Stationary
+Popsicle Sticks Colored	6	22	Stationary
+Big Glitters	20	12	Stationary
+Medium Glitters	4	8	Stationary
+Small Glitters	43	5	Stationary
+Glitters in sachet	22	5	Stationary
+High School Musical Sticker Set	1	0	Stationary
+HBW Stamp Pad	5	58	Stationary
+Permanent Marker Ink	5	30	Stationary
+Whiteboard Marker Ink	3	40	Stationary
+Red Colored Tape	6	35	Stationary
+Green Colored Tape	6	35	Stationary
+Yellow Colored Tape	6	35	Stationary
+.5 pencil Lead	15	15	Stationary
+.7 pencil lead	1	20	Stationary
+pouch Bag	15	15	Stationary
+Double-sided Tape	0	30	Stationary
+Masking Tape	2	32	Stationary
+Masking Tape	5	20	Stationary
+Masking Tape	3	25	Stationary
+Masking Tape	7	16.5	Stationary
+Clear Tape Yellow	4	30	Stationary
+Transparent Tape	4	30	Stationary
+Small Transparent tape	7	10	Stationary
+Magnapearl Colored Memo Pad	6	35	Stationary
+Tape Dispensers	3	68	Stationary
+Push Pin Box (100's)	3	0	Stationary
+Stapler	2	110	Stationary
+ID Lanyard	10	25	Stationary
+ID Card Holder	9	21	Stationary
+flex office twin highlighter set	4	58	Stationary
+KADIO Scientific Calculator	1	180	Stationary
+Metal puncher	2	42.5	Stationary
+Stapler bullets #35	3	33.5	Stationary
+TAKSUN Scientific Calculator	3	33.5	Stationary
+Winbook Stationary Notepad	8	28	Stationary
+Thumbtacks	6	12.5	Stationary
+Staple Bullets #10-1m	17	13.5	Stationary
+Folder Fastener	42	3.75	Stationary
+Paper Clip Set	6	5	Stationary
+Paper Clip Set	3	3	Stationary
+Stabilo Highlighter	20	39.5	Stationary
+Marvy Highlighter	2	21.5	Stationary
+Faber Castell Highlighter	9	37.5	Stationary
+Winbook Stationary Notepad	4	30	Stationary
+Winbook Stationary Notepad	1	22	Stationary
+Winbook Sticky Note Shapes	14	22	Stationary
+Winbook Sticky Note 3-cuts	6	22	Stationary
+Winbook Sticky Note	9	18	Stationary
+ID Clip	18	8	Stationary
+Design Tape	18	5	Stationary
+London Spiral Notebook	2	34.5	Stationary
+Spiral Notebook	2	75	Stationary
+Daiso Japan Ballpoint Pen Set	3	120	Stationary
+Daiso Japan 0.7 Ballpen Set	2	120	Stationary
+Tape w/ Dispenser	5	24.5	Stationary
+Hello Kitty Small NB	2	32.5	Stationary
+Sofia the first Small NB	2	32.5	Stationary
+Spiderman Small NB	1	32.5	Stationary
+McQueen Small NB	1	32.5	Stationary
+Avengers 2 Small NB	2	32.5	Stationary
+Stapler set	7	65	Stationary
+Primary Worksheet refillable	10	25.5	Stationary
+Stick Note Set	1	40	Stationary
+Sticky note marker set	2	40	Stationary
+Bear w/ Flag NB	3	50	Stationary
+Paris Black NB	1	40	Stationary
+Flamingo NB	1	64.75	Stationary
+Steno Mini Flip NB	3	22	Stationary
+Memo Pad	2	28.75	Stationary
+Green Apple NB Big	8	42.5	Stationary
+Green Apple NB Small	1	28.5	Stationary
+Colored Labeling Tape	5	15.75	Stationary
+Memo pad w/ Pen	11	32.5	Stationary
+Spiral NB w/ Sticky Note Big	2	65	Stationary
+Paris NB w/ Pen	2	75	Stationary
+Girls Rule Spiral Mini NB	5	18	Stationary
+Floreine Mini NB	9	68	Stationary
+Crosless Mini NB w/ binder	8	55	Stationary
+Mode Diary	3	42	Stationary
+Sachi Spiral Mini NB	12	15	Stationary
+King Jim Memo flip NB	2	18	Stationary
+Pocket Notes	6	12	Stationary
+Green Apple Flip NB	5	20	Stationary
+Green Apple Small	5	25	Stationary
+Green Apple Small Quick Notes	4	18	Stationary
+Daiso Sticky Note Folding	6	150	Stationary
+Letter w/ Number Stensil Set	3	50	Stationary
+Letter w/ Shapes Stensil 	1	0	Stationary
+Dolls w/ Clip-on Dress	2	120	Toys
+Trolls	2	120	Toys
+Dragoon Snooker	1	299.75	Toys
+Growee Animals	7	60	Toys
+Whistles	5	12	Toys
+Camel Puches	2	50	Toys
+Miniso Cutlery Set	3	150	Toys
+Carousel Magic Box	1	500	Toys
+Fingerboard Tony Hawk	4	100	Toys
+Beyblade 	4	150	Toys
+HK bubbles	1	45	Toys
+Lego Batman	2	45	Toys
+Lego Batman w/ Car	7	75	Toys
+Lego Ninjago w/ Big Bikes	8	75	Toys
+Lego Ninjago w/ Bikes	3	45	Toys
+Lego Transformers	4	150	Toys
+Lego Super Heroes	4	125	Toys
+Lego Street	6	100	Toys
+Lego Architecture	6	100	Toys
+Lego Wing Clan	3	45	Toys
+Lego Pokemon 	13	45	Toys
+Nexo Soldiers	7	125	Toys
+Lego Spiderman	3	125	Toys
+Lego Friends Big	4	125	Toys
+Lego Frozen	4	125	Toys
+Lego Block Gold	8	75	Toys
+Lego Star Wars	2	45	Toys
+Lego Mincraft	7	125	Toys
+Lego My Kingdom	6	100	Toys
+My World small	9	75	Toys
+Lego Ninjago w/ Elephant	2	45	Toys
+My World big	3	125	Toys
+Lego Enchanted	7	45	Toys
+Lego Summer Shine	2	45	Toys
+Lego LQL	4	45	Toys
+Lego Moana	2	45	Toys
+Lego Zootopia	1	45	Toys
+Lego Friends Small	3	45	Toys
+Loombands Set	3	99.75	Toys
+Big Cow Stuff Toy	1	256.5	Toys
+Kangaroo Stuff Toy	1	152.5	Toys
+Plastic Kendama	6	100	Toys
+Chattering Teeth	2	100	Toys
+Scratch Card Bingo	4	35	Toys
+Laghing Bag Toy	5	100	Toys
+Magic Box Set	2	75	Toys
+Inyan Abacus	1	109.75	Toys
+Polka Dot Balloons	51	12	Toys
+Plain Balloons Big	47	10	Toys
+It’s a girl balloon	10	12	Toys
+It’s a boy balloon	10	12	Toys
+Star Design Balloon	8	12	Toys
+Flower Design Balloon	22	12	Toys
+Smiley Balloon	6	12	Toys
+I Love You Balloon	21	12	Toys
+Small Balloon	4	5	Toys
+Happy Birthday Balloon	25	12	Toys
+Congratulations Balloon	25	12	Toys
+Letter Balloons	66	45	Toys
+Number Balloons	10	50	Toys
+Mermaid Bubbles	3	38	Toys
+Magnet Puzzle	1	100	Toys
+Captain America Shield	2	150	Toys
+Train set	3	120	Toys
+Crocodile Dentist	3	125	Toys
+Ping Pong Balls	91	5	Toys
+Birthday Cake Clay	3	130	Toys
+Chima	22	60	Toys
+Character Masks	11	170	Toys
+DC Superhero Girls	8	50	Toys
+My Little Pony	8	50	Toys
+Star Wars Lego	8	50	Toys
+Beyblade Small	6	100	Toys
+Paint on Coin Bank	9	150	Toys
+PJ Mask Doctor Toy set	2	75	Toys
+Kitchen Set	4	75	Toys
+Dessert Cookies Toy	2	75	Toys
+Cutlery Kitchen Toy Set	2	75	Toys
+Animal Kingdom	1	75	Toys
+Fire Rescue Toy	1	75	Toys
+Police Toy	1	75	Toys
+Spiky Ball w/ Light	3	35	Toys
+Big Bouncy Ball w/ Light	2	45	Toys
+Small Bouncy Ball w/ Light	6	35	Toys
+Big Animal Slime	14	20	Toys
+Small Animal Slime	10	10	Toys
+Small M Slime	15	10	Toys
+Big Fruit Slime	4	20	Toys
+Gem Slime	19	12	Toys
+Crystal Slime	8	10	Toys
+Barrel Slime	32	10	Toys
+Crystal Mud	19	10	Toys
+Waterball	15	10	Toys
+Magic Clay (Plastic casing)	1	8	Toys
+Bottle Slime	4	20	Toys
+Slinky	20	15	Toys
+Big Magnet	12	20	Toys
+Small Magnet	69	15	Toys
+Tiny Party Popper	2	15	Toys
+Small Party Popper	1	0	Toys
+Medium Party Popper	3	0	Toys
+Big Party Popper	2	0	Toys
+Small Marble Set	5	0	Toys
+Medium Marble Set	11	0	Toys
+Big Marble Set	5	0	Toys
+Jackstones	13	15	Toys
+Keychain w/ Light	12	15	Toys
+Rubix Cube	7	150	Toys
+Hexagon Puzzle Game	1	250	Toys
+Solitair Magnetic Game	1	250	Toys
+Magna Puzzle	1	375	Toys
+Pokemon Trading card w/Metal Box	8	200	Toys
+Pokemon Trading card soft box big	3	150	Toys
+Pokemon Trading card soft box small	19	70	Toys
+Beyblade Big Box	4	150	Toys
+Play Money Tiny	10	12	Toys
+Play Money Small	9	16.5	Toys
+Play Money Medium	8	17	Toys
+Play Money Big	8	20	Toys
+Fidget Spinners	3	150	Toys
+Fidget Spinners	2	75	Toys
+Fidget Spinners	3	45	Toys
+Fidget Spinners	11	60	Toys
+Uno Cards 	5	100	Toys
+Uno Cube	7	75	Toys
+Play money w/ coins	36	12	Toys
+Clean Doctor Toothbrush	3	23.75	Hygiene
+Smart Oral Toothbrush	2	25	Hygiene
+Jagger Toothbrush	1	25	Hygiene
+Bath Gloves White	5	20	Hygiene
+Novo Case Cotton Swabs	5	17.5	Hygiene
+Colgate Fresh Confidence Green	11	10	Hygiene
+Colgate Sensitive	12	15	Hygiene
+Colgate Maximum Cavity Protection	11	10	Hygiene
+Del Red	2	7.5	Hygiene
+Del Blue	6	7.5	Hygiene
+Verbena Facial Soap	5	17.5	Hygiene
+Surf Fab Con	6	8	Hygiene
+Downy Pink	6	10	Hygiene
+Gard Shampoo	2	8.5	Hygiene
+Palmolive Pink Shampoo	3	8.5	Hygiene
+Palmolive Green Shampoo	3	8.5	Hygiene
+Dove Shampoo	12	8	Hygiene
+Cream Silk Conditioner	7	8.5	Hygiene
+Hello Kitty Pads	5	9	Hygiene
+Palmolive Soap Black	3	15.5	Hygiene
+Palmolive Soap Orange	6	15.5	Hygiene
+Palmolive Soap Pink	6	15.5	Hygiene
+Kotex Pads Big	2	80	Hygiene
+Sisters Pads Green	2	35	Hygiene
+Sisters Pad Purple	2	35	Hygiene
+Sisters Pad Small	1	17	Hygiene
+Charmee Pads Pink Small	1	18.75	Hygiene
+Charmee Pads Blue Small	1	18.75	Hygiene
+Charmee Pads Green Small	1	18.75	Hygiene
+Justice League Toothbrush Set	3	99.75	Hygiene
+HK Toothbrush Set	2	99.75	Hygiene
+Joy Tissues 2ply	6	12	Hygiene
+Soft n' White Tissues	7	12	Hygiene
+Vinda Soft Facial Tissue	2	25	Hygiene
+Vinda Ultra Strong tissue	2	20	Hygiene
+Tender Love Baby Wipes	5	25	Hygiene
+Johnsons Facial Wipes	1	35	Hygiene
+Gillette Rubie II	10	21.75	Hygiene
+Gillette Rubie Click	2	28.5	Hygiene
+Haircolor Set	3	115	Hygiene
+Bioswiss Pedicure Set	2	115.75	Hygiene
+Small Pedicure set	3	48	Hygiene
+Thrift Bathroom Tissue	12	10	Hygiene
+Travel Kit Set (Ameneties)	1	0	Hygiene
+Nail Polish Remover	5	0	Hygiene
+Mertiolate	6	0	Hygiene
+PH Care Feminine Wash	3	0	Hygiene
+Perla Soap	17	0	Hygiene
+Chopsticks	12	0	Hygiene
+Fingertip Moistener	4	37.5	Hygiene
+Green Cross Alcohol	4	20	Hygiene
+My Baby Face Powder	4	25	Hygiene
+Lewis & Pearl face powder	3	25	Hygiene
+Johnsons Baby Powder White	6	21.5	Hygiene
+Johnsons Baby Powder Pink	5	28.5	Hygiene
+Make-up Brush Set Hello Kitty	1	250	Hygiene
+Hello Kitty Make-up brush	1	200	Hygiene
+Family Alcohol	1	39.5	Hygiene
+Big Family Alcologne	1	31.5	Hygiene
+Lewis & Pearl Scent Shop Big	3	60	Hygiene
+Family Alcologne Small	1	18.5	Hygiene
+Colgate Plax	4	52.5	Hygiene
+Lewis & Pearl Scentshop Small	2	42	Hygiene
+Name	Stocks	Price	Miscellaneous
+Havianas	1	295	Miscellaneous
+Character Pillows	2	120	Miscellaneous
+Shoe Polish Set	2	100	Miscellaneous
+Kiddie Character Umbrella	3	150	Miscellaneous
+Design Mask	7	35	Miscellaneous
+Bad Boy Fashion Mask	3	40	Miscellaneous
+Key Holder	1	145	Miscellaneous
+Card Bag Holder	1	145	Miscellaneous
+Girls Wallet	9	100	Miscellaneous
+Paper Latern 	2	120	Miscellaneous
+Bathmat	1	238.5	Miscellaneous
+Character Party Bags	25	32	Miscellaneous
+Forever Friends Party Bags	3	50	Miscellaneous
+Birthday Candles	59	2.5	Miscellaneous
+Fashion Necklace & Earrings	2	35	Miscellaneous
+Jiamei Haircomb	3	21.5	Miscellaneous
+HK Comb & Mirror Combo	1	50	Miscellaneous
+Large HK Hair Comb	3	25	Miscellaneous
+Nicety Folding Comb	2	25	Miscellaneous
+Nicety Comb Large	2	25	Miscellaneous
+Regular Comb (Brandless)	2	15	Miscellaneous
+HK Flip Mirror	2	25	Miscellaneous
+HK Flip Mirror w/ Comb	3	50	Miscellaneous
+Little Twin Stars Mirror	1	50	Miscellaneous
+HK Small Comb	2	18.5	Miscellaneous
+Yuanbo Comb	2	15	Miscellaneous
+Small Hairnet	8	17	Miscellaneous
+Ariel Pin	1	49.5	Miscellaneous
+Jibbitz	3	100	Miscellaneous
+Large Hairnet	20	20	Miscellaneous
+Black Hairpin Set	15	5	Miscellaneous
+Colored Hairpin Set	7	5	Miscellaneous
+HK Hairpin	7	30	Miscellaneous
+RuiEn Facemask	11	10	Miscellaneous
+Pop Fashion Facemask	5	10	Miscellaneous
+Regular Facemask	30	7	Miscellaneous
+Sanrio w/ Clip	9	10	Miscellaneous
+Ornamental Pin	11	100	Miscellaneous
+U Shaped Pin	2	80	Miscellaneous
+Kurashi Hairstick	2	100	Miscellaneous
+Kurashi Hairpin	1	75	Miscellaneous
+Kurashi Vance Clip	2	100	Miscellaneous
+Kurashi Long Hairclip	1	75	Miscellaneous
+Kurashi Large Hairclip	1	100	Miscellaneous
+Kurashi Snap Hairclip	3	75	Miscellaneous
+Kurashi Ponytail Holder	2	75	Miscellaneous
+Banana Clip	1	100	Miscellaneous
+Jelly Bands	24	10	Miscellaneous
+Elastic Bands	6	10	Miscellaneous
+Scrunchy	4	100	Miscellaneous
+Goody Headbands	1	219	Miscellaneous
+Flat Elastic Hairtie	35	10	Miscellaneous
+No Metal Elastic Hairtie	14	10	Miscellaneous
+Fashion Jewelry Hairclip	4	20	Miscellaneous
+Regular Snap Hairclip	3	25	Miscellaneous
+Butterfly Snap Hairclip	3	3	Miscellaneous
+Fashion Jewelry Snap Hairclip	6	20	Miscellaneous
+Sanrio	13	2	Miscellaneous
+Superhero Monopod	3	200	Miscellaneous
+Small monopod (brandless)	1	150	Miscellaneous
+Packing Tape	10	32.5	Miscellaneous
+Crocodile Masking Tape	11	12	Miscellaneous
+Crocodile Masking Tape	4	15	Miscellaneous
+Crocodile Masking Tape	8	17.5	Miscellaneous
+Crocodile Transparent Tape	5	8	Miscellaneous
+Crocodile Transparent Tape	1	12	Miscellaneous
+Hong Su Transparent Tape	10	20	Miscellaneous
+Key Ring Stent	8	60	Miscellaneous
+Key Ring Character Pop Socket	5	120	Miscellaneous
+Mobile Phone Ring Stent	3	150	Miscellaneous
+Mamuso Ring Stent	6	150	Miscellaneous
+Mamuso Double Ring Stent	4	200	Miscellaneous
+Cat Bags	3	100	Miscellaneous
+Black Facemask	7	40	Miscellaneous
+HK Earphones	2	250	Miscellaneous
+Zipper Earphones	0	200	Miscellaneous
+Hamburger Cutlery	3	120	Miscellaneous
+HK Lunch Tupperware	7	250	Miscellaneous
+HK Tableware	2	200	Miscellaneous
+Doraemon Tableware	1	200	Miscellaneous
+Miniso Animal Clay	2	199.75	Miscellaneous
+Hostess Set	1	300	Miscellaneous
+Girl Sling Bag	2	125	Miscellaneous
+Valentines I love you Balloons Big	10	20	Miscellaneous
+Valentines Ilove you Balloon Small	13	10	Miscellaneous
+Thick Cloth Cleaner	12	7	Miscellaneous
+Thin Cloth Cleaner	11	4	Miscellaneous
+Flower Head Band	12	50	Miscellaneous
+Cat Headbands	12	60	Miscellaneous
+Special HK Automatic Umbrella	3	250	Miscellaneous
+Regular HK Automatic Umbrella	3	200	Miscellaneous
+Regular Automatic Umbrella	3	180	Miscellaneous
+Bear Flower w/ Heart Box	8	160	Miscellaneous
+Gildan T-Shirt	1	389.75	Miscellaneous
+Hoover Dam Shirt	1	189.75	Miscellaneous
+Kids T-Shirt	2	89.75	Miscellaneous
+Bear Heart w/ Flower	5	55	Miscellaneous
+Small Bear w/ Flower	2	30	Miscellaneous
+Plastic Rose Big	24	20	Miscellaneous
+Colorful Plastic Rose Small	54	2	Miscellaneous
+Colorful Plastic Rose Medium	85	5	Miscellaneous
+Rose Pen	10	20	Miscellaneous
+Wine Shop Gift Set	3	180	Miscellaneous
+Barbie Birthday Invitation Card	29	0	Miscellaneous
+Barney Birthday Invitation Gift Card	15	0	Miscellaneous
+Mickey Mouse Birthday Invitation Gift Card	31	0	Miscellaneous
+Spongebob Birthday Invitation Gift Card	1	0	Miscellaneous
+Dora Birthday Invitation Gift Card	39	0	Miscellaneous
+Dora Birthday Hat	7	0	Miscellaneous
+Mickey Mouse Birthday Hat	9	0	Miscellaneous
+Spongebob Birthday Hat	1	0	Miscellaneous
+Disney Princess Birthday Hat	20	0	Miscellaneous
+plastic Rose Big	21	0	Miscellaneous
+Winnie The Pooh Birthday Hat	30	0	Miscellaneous
+Barney Birthday Hat	23	0	Miscellaneous
+Balloon Pump	1	75	Miscellaneous
+Valentines day Heart shape Pillow on stick	4	25	Miscellaneous
+Bendy Straws	5	40	Miscellaneous
+Notebook w/ leather case	9	38.5	Miscellaneous
+Plastic cups	38	2	Miscellaneous
+Flower Candles	3	75	Miscellaneous
+Miniso Notepad	2	99	Miscellaneous
+Scotch Expressions Tape	1	99.5	Miscellaneous
+Bear Flower w/ Big Box	2	200	Miscellaneous
+Flower Hair Accessory Big	1	75	Miscellaneous
+Flower Hair Accessory Small	1	35	Miscellaneous
+Needle Book	1	0	Miscellaneous
+Sewing Kit Set	5	0	Miscellaneous
+Dressmakers Pin	10	0	Miscellaneous
+Tomato Needle Holder	6	0	Miscellaneous
+Thimble	29	0	Miscellaneous
+Zipper	15	0	Miscellaneous
+Pins w/ head	1	0	Miscellaneous
+Garter	3	0	Miscellaneous
+Hook & Eyes	9	8	Miscellaneous
+Hook & Eyes	9	5	Miscellaneous
+Buttons	6	0	Miscellaneous
+Safety Pins	14	0	Miscellaneous
+Gold Safety Pins	110	10	Miscellaneous
+Glitter Eyes	26	0	Miscellaneous
+Measuring Tape	2	0	Miscellaneous
+Pantastas	6	0	Miscellaneous
+Nail Pusher Big	6	0	Miscellaneous
+Nail Pusher Small	6	0	Miscellaneous
+Crochet Needle 6.0	1	0	Miscellaneous
+Crochet Needle 7/o - 8/o	3	0	Miscellaneous
+Crochet Needle 5/o - 6/o	2	0	Miscellaneous
+Crochet Needle 7	1	0	Miscellaneous
+Gold safety Pins Small	1	0	Miscellaneous
+Fever Aid Babies	3	0	Miscellaneous
+Fever Aid Kids	3	0	Miscellaneous
+Mangosteen Capsule	3	0	Miscellaneous
+Glass Flower Candles	10	0	Miscellaneous
+Paracetamol Para 250	3	0	Miscellaneous
+Lagundi Leaf Negacof	3	0	Miscellaneous
+Pei Pa Koa	40	6	Miscellaneous
+Nailcutter	5	0	Miscellaneous
+Big Mirror	2	0	Miscellaneous
+Fan 	3	20	Miscellaneous
+Men's Socks	8	15	Miscellaneous
+Ladies Socks	7	18	Miscellaneous
+Ladies Socks	10	22	Miscellaneous
+Ladies Socks	11	20	Miscellaneous
+Footsies	8	28	Miscellaneous
+Footsies	8	25	Miscellaneous
+Ladies Socks	10	30	Miscellaneous
+Long Toe Socks	11	0	Miscellaneous
+Kids Socks	6	50	Miscellaneous
+Kids Socks	1	70	Miscellaneous
+Short Toe Socks	11	0	Miscellaneous
+Kids Tights	1	0	Miscellaneous
+Hand Towel	9	0	Miscellaneous
+Small Handkerchief	2	35	Miscellaneous
+Medium Handkerchief	8	45	Miscellaneous
+Big Handkerchief	9	65	Miscellaneous
+Tattoo Sleeves	2	0	Miscellaneous
+Small Bucket	5	0	Miscellaneous
+Whole White Mask	12	0	Miscellaneous
+Half White Mask	6	0	Miscellaneous
+Bamboo Toothpicks	6	0	Miscellaneous
+White gloves	10	0	Miscellaneous
+McDo Hat	4	0	Miscellaneous
+McDo Apron	1	0	Miscellaneous
+Wooden Umbrella	2	0	Miscellaneous
+Tin Can	3	0	Miscellaneous
+Bear Mason Jar	3	0	Miscellaneous
+Small Mason Jar	2	0	Miscellaneous
+Childrens Book	2	0	Miscellaneous
+Starbucks Mug	2	0	Miscellaneous
